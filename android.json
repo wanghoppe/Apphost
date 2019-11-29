@@ -1,0 +1,55 @@
+{
+  "name": "banchengping",
+  "slug": "test3",
+  "privacy": "public",
+  "sdkVersion": "34.0.0",
+  "platforms": [
+    "ios",
+    "android",
+    "web"
+  ],
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "icon": "./assets/icon.png",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff",
+    "imageUrl": "http://localhost:4000/assets/./assets/splash.png"
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ],
+  "ios": {
+    "bundleIdentifier": "com.test.hoppe",
+    "supportsTablet": true,
+    "infoPlist": {
+      "UIBackgroundModes": [
+        "audio"
+      ]
+    }
+  },
+  "description": "",
+  "xde": true,
+  "developer": {
+    "tool": "expo-cli",
+    "projectRoot": "C:\\Users\\hwang\\Desktop\\workf\\expo\\test"
+  },
+  "packagerOpts": {
+    "hostType": "lan",
+    "lanType": "ip",
+    "dev": false,
+    "minify": true,
+    "urlRandomness": "j3-kuk",
+    "https": false
+  },
+  "env": {},
+  "bundleUrl": "http://localhost:4000/android-bundle.js",
+  "debuggerHost": "10.185.4.94:19001",
+  "mainModuleName": "node_modules/expo/AppEntry",
+  "hostUri": "10.185.4.94:19000",
+  "iconUrl": "http://localhost:4000/assets/./assets/icon.png"
+}
