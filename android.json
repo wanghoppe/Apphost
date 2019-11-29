@@ -83,7 +83,7 @@
   "commitTime": "2019-11-29T04:09:43.540Z",
   "revisionId": "Pae9RbMJ3A",
   "id": "@hwang/test3",
-  "bundleUrl": "http://53.89.143.129/android-bundle.js",
+  "bundleUrl": "http://52.89.143.129/android-bundle.js",
   "platform": "android",
   "dependencies": [
     "aws-amplify",
