@@ -48,8 +48,7 @@
   },
   "env": {},
   "bundleUrl": "http://localhost/ios-bundle.js",
-  "debuggerHost": "10.185.4.94:19001",
   "mainModuleName": "node_modules/expo/AppEntry",
-  "hostUri": "10.185.4.94:19000",
+  "hostUri": "localhost:80",
   "iconUrl": "http://localhost/assets/./assets/icon.png"
 }
