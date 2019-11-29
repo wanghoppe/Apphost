@@ -15,7 +15,7 @@
     "image": "./assets/splash.png",
     "resizeMode": "contain",
     "backgroundColor": "#ffffff",
-    "imageUrl": "http://localhost:4000/assets/./assets/splash.png"
+    "imageUrl": "http://localhost/assets/./assets/splash.png"
   },
   "updates": {
     "fallbackToCacheTimeout": 0
@@ -47,9 +47,9 @@
     "https": false
   },
   "env": {},
-  "bundleUrl": "http://localhost:4000/ios-bundle.js",
+  "bundleUrl": "http://localhost/ios-bundle.js",
   "debuggerHost": "10.185.4.94:19001",
   "mainModuleName": "node_modules/expo/AppEntry",
   "hostUri": "10.185.4.94:19000",
-  "iconUrl": "http://localhost:4000/assets/./assets/icon.png"
+  "iconUrl": "http://localhost/assets/./assets/icon.png"
 }
