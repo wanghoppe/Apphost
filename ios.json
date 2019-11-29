@@ -49,8 +49,7 @@
   "env": {},
   "bundleUrl": "http://52.89.143.129/ios-bundle.js",
   "mainModuleName": "node_modules/expo/AppEntry",
-  "hostUri": "localhost:80",
-  "iconUrl": "http://localhost/assets/./assets/icon.png",
+  "iconUrl": "http://52.89.143.129/assets/./assets/icon.png",
   "updates": {
     "enabled": true
   }
