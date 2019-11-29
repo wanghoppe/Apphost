@@ -47,7 +47,7 @@
     "https": false
   },
   "env": {},
-  "bundleUrl": "http://localhost/ios-bundle.js",
+  "bundleUrl": "http://0.0.0.0/ios-bundle.js",
   "mainModuleName": "node_modules/expo/AppEntry",
   "hostUri": "localhost:80",
   "iconUrl": "http://localhost/assets/./assets/icon.png"
