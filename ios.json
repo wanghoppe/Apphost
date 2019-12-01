@@ -15,7 +15,7 @@
     "image": "./assets/splash.png",
     "resizeMode": "contain",
     "backgroundColor": "#ffffff",
-    "imageUrl": "http://52.89.143.129/assets/43ec0dcbe5a156bf9e650bb8c15e7af6"
+    "imageUrl": "http://13.125.158.61/assets/43ec0dcbe5a156bf9e650bb8c15e7af6"
   },
   "updates": {
     "fallbackToCacheTimeout": 0
@@ -31,7 +31,7 @@
   },
   "description": "",
   "locales": {},
-  "iconUrl": "http://52.89.143.129/assets/f82b34f900882c5120a1bfbf6df22a27",
+  "iconUrl": "http://13.125.158.61/assets/f82b34f900882c5120a1bfbf6df22a27",
   "bundledAssets": [
     "asset_3a2ba31570920eeb9b1d217cabe58315.ttf",
     "asset_744ce60078c17d86006dd0edabcd59a7.ttf",
@@ -83,6 +83,6 @@
   "commitTime": "2019-11-29T04:09:43.540Z",
   "revisionId": "Pae9RbMJ3C",
   "id": "@hwang/test3",
-  "bundleUrl": "http://52.89.143.129/ios-bundle.js",
+  "bundleUrl": "http://13.125.158.61/ios-bundle.js",
   "platform": "ios"
 }
