@@ -8,7 +8,7 @@
     "android",
     "web"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "orientation": "portrait",
   "icon": "./assets/icon.png",
   "splash": {
@@ -81,7 +81,7 @@
   "assetUrlOverride": "./assets",
   "publishedTime": "2019-11-30T04:09:43.540Z",
   "commitTime": "2019-11-29T04:09:43.540Z",
-  "revisionId": "Pae9RbMJ3B",
+  "revisionId": "Pae9RbMJ3C",
   "id": "@hwang/test3",
   "bundleUrl": "http://52.89.143.129/ios-bundle.js",
   "platform": "ios"
